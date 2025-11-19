@@ -16,7 +16,7 @@ case "4":
 case "5":
         console.log("Sexta-feira")
         break;
-case "6":
+case "6":                                                       
         console.log("Sábado")
         break;
 case "7":
@@ -24,6 +24,7 @@ case "7":
         break;
 
     default:
+        console.log("O número informado não é válido!")
         break;
 }
 
