@@ -17,7 +17,6 @@ let altura = parseFloat(prompt("Digite sua altura em metros:"));
 
 let imc = peso / (altura * altura);
 
-let classificacao = "";
 
 if (imc < 18.5) {
     classificacao = "Abaixo do peso";
