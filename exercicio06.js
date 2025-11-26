@@ -24,3 +24,24 @@ let valorFinal = valorCompra - desconto;
 alert("Valor da compra: R$ " + valorCompra.toFixed(2) +
       "\nDesconto aplicado: R$ " + desconto.toFixed(2) +
       "\nValor final a pagar: R$ " + valorFinal.toFixed(2));
+
+
+
+// let valorTotalCompra = parseFloat(prompt("Digite o valor total da compra: "));
+
+// let desconto;
+
+// if (valorTotalCompra <= 100) {
+    
+// } else if (valorTotalCompra > 100 && valorTotalCompra <= 200) 
+//     {
+//     desconto = 0.10;
+// }
+
+// else{
+// desconto = 0.20;
+// }
+
+// let valorFinal = valorTotalCompra - (valorTotalCompra*desconto);
+
+// alert(valorFinal);
